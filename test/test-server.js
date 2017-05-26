@@ -149,7 +149,7 @@ describe('Shopping List', function() {
 
 ///////RECIPE TESTS BELOW/////
 
-describe('Recipes', function() {
+describe.only('Recipes', function() {
   before(function() {
     return runServer();
   });
