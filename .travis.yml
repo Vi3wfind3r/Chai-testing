@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: bPZzKEZIknMlQ+JG/Lma1nUDGVZr2o9TPCfTLovzAnIXCnwPvDbzkMCaIJSZiegY+OD4wa/S2Z4gIi/vgp0sWXROg5E18+h1tWrGgGMZICj5P1Zq33Bi1wx9z51AZ84fa4MnffPZRybFCt2Rg10iP5fpEeFQfewT94IS6xB/yjBzg/n4HraEWL2dxTqs23dbLJ7ztpjM51Pczyd4W3dCzSd4JPtCNlsbzxMa461onNgkOeWsalGEF70zLqxSmvh87G/iDtwtYxX/hKRXJsv5bdhG79bLfkP7xIL+MTL/1U+tSI1Js9UH8kfNSQV4PsIyv9Fr4m5FESL2EqtQ5x4tLbljyuo41oSJBd26wU823hOqPWBMzADELnLsFt+zK+rYW1BDI2oSC6Ol1Ur77OBCJKwVetSlIseJ9NrI4Q19spUuUvXoapw0K8ka+B56kHZiHMXyOMIgtGY4C3fuqNJK5HoT5BmppCvtH6lU6PcNlHuo75br/M/ILKqpnyNzOH3/JvvO+wy8BXi+R3C8lrYwp17y12CDeTSoyyVsxO9GXgmV2dt10T7izRWHLQct4J7n6/LwqCOg21TH5SS7JCzEU8l5rEIfVEFXcu2cOco8JDF9JoPHeKireqoAevupJ7ANJ/0kxAMqfId36JMGuaR1p7LIiNjwWIZzrwbOy629i7U=
-  app: node-shopping-list-integration-tests
+  app: gentle-reaches-77540
   on:
     repo: Vi3wfind3r/node-shopping-list-integration-tests
